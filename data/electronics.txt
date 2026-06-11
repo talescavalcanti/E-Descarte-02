@@ -1,0 +1,2 @@
+1,iPhone 13,40
+2,Notebook Samsung,100
